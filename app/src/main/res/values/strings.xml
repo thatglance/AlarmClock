@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string name="label_alarm_not_set">Alarm time is not set.</string>
+    <string name="label_alarm_set">Alarm time is set at %1$s:%2$s.</string>
+    <string name="label_set_alarm_time">Set alarm time</string>
+    <string name="alarm_message">Alarm fired!</string>
+    <string name="notification_alarm_toast_message">Notification fired!</string>
+    <string name="notification_alarm_text">Alarm will fire at %1$s:%2$s.</string>
+    <string name="cancel">Cancel</string>
+    <string name="alarm_canceled_toast_message">Alarm canceled.</string>
+    <string name="next_alarm_tomorrow">Next alarm will fire tomorrow.</string>
+</resources>
